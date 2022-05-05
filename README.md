@@ -4,7 +4,7 @@ Disclaimer: This post is for research and educational purposes only. I do not ta
 
 The word Nucus comes from the Latin term _Enucleatus_ which means simple. Nonetheless, this ransomware shows how easy it can be it wreak havoc havoc on a system or a network.
 
-The ransomware that was created by us is made using the Python programming language. It is divided into three units:
+The ransomware that was created is made using the Python programming language. It is divided into three units:
 
 1.  The Command and Control server called `candc.py`
 2.  The Malware itself that is used for encryption called `malware.py`
