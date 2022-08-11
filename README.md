@@ -43,7 +43,6 @@ and then deleted the encrypted files. Now the vicitm has all his/her files back 
 before the attack
 
 ### Demo
-
 ![alt text](https://i.imgur.com/CsftzWX.jpg)
 ![alt text](https://i.imgur.com/flmejfh.jpg)
 ![alt text](https://i.imgur.com/ygVezlZ.jpg)
